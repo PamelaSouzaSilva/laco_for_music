@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(-450deg, #093524, #b8f3db, rgba(10, 46, 35, 0.907))
+}
+ 
+form{
+    background-color: #6fbebe;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 70px;
+    border-radius: 80px;
+    box-shadow: 0 0 40px rgb(0, 0, 0);
+    text-align: center;
+}
+
+label{
+
+    font-family:'Times New Roman', Times, serif;
+
+    font-size: 23px;
+}
+
+select{
+
+    text-align: center;
+}
+ select{
+
+     font-size: large;
+     background-color: rgb(255, 255, 255);
+ }
+
+ #btn{
+    color: rgb(252, 252, 252);
+    width: 250px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: rgb(65, 60, 60);
+}
+btn:hover{
+    font-size: 18px;
+}
